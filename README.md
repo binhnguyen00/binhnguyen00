@@ -9,7 +9,7 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=binhnguyen00&layout=compact" />
 </a>
 
-## Conntact
+## Contact
 📧 Email: ```jackjack2000.kahp@gmail.com```
 <br/>
 📲 To Vietnamese friends: ```0942659016``` Zalo / Direct
