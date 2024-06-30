@@ -2,10 +2,10 @@
 👯 I’m looking to collaborate with you
 
 <a href="https://github.com/binhnguyen00/binhnguyen00">
-  <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=binhnguyen00&show_icons=true"/>
+  <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=binhnguyen00&show_icons=true"/>
 </a>
 <a href="https://github.com/binhnguyen00/binhnguyen00">
-  <img height=250 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=binhnguyen00&layout=compact" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=binhnguyen00&layout=compact&card_width=300" />
 </a>
 
 ### Conntact
