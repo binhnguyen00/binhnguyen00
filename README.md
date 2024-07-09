@@ -6,6 +6,5 @@
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=binhnguyen00&layout=compact)
 
 ## Contact Me
-📧 Email: ```jackjack2000.kahp@gmail.com```
-<br/>
+📧 Email: _jackjack2000.kahp@gmail.com_
 📲 To Vietnamese friends: ```0942659016``` Zalo / Direct
