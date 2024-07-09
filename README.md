@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 thank you for reaching me out </h1>
-<p align="center"> 👯 I’m looking to collaborate </p>
+<h2 align="center"> 🤝 Looking to collaborate </h2>
 
 ## Some of my stats so far
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=binhnguyen00&show_icons=true)
