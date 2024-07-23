@@ -1,7 +1,11 @@
 <h1 align="center"> Hi there <img src="https://emojis.slackmojis.com/emojis/images/1710140468/90621/clapclap-e.gif?1710140468" width="30"/> thank you for reaching me out </h1>
 <h2 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1644691746/52695/handshake.png?1644691746" width="30"/> Looking to collaborate </h2>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=2%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=22" />
+  <p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=22" /></p>
+</p>
 
 <h3>Things I code with</h3>
 <p>
