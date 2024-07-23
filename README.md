@@ -7,7 +7,7 @@
   <p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=22" /></p>
 </p>
 
-<h3>Things I code with</h3>
+## Things I code with
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-2843BE?style=flat-square&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-674CEE?style=flat-square&logo=python&logoColor=white" />
