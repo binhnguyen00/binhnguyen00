@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=22" />
   <img src="https://readme-typing-svg.demolab.com/?lines=2%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=22" />
-  <p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=22" /></p>
+  <div align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=22" /></div>
 </p>
 
 ## Things I code with
