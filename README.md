@@ -7,7 +7,7 @@
   <div align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Ready%20for%20new%20challenges&font=Cascadia%20Mono&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=22" /></div>
 </p>
 
-## My helpful tools
+## Tools that I'm familier with
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-2843BE?style=flat-square&logo=Java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-674CEE?style=flat-square&logo=python&logoColor=white" />
