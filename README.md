@@ -2,9 +2,9 @@
 <h2 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1644691746/52695/handshake.png?1644691746" width="30"/> Looking to collaborate </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer&font=Cascadia%20Mono&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=22" />
-  <img src="https://readme-typing-svg.demolab.com/?lines=2%2B%20years%20of%20coding%20experience&font=Cascadia%20Mono&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=22" />
-  <div align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Ready%20for%20new%20challenges&font=Cascadia%20Mono&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=22" /></div>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer&font=Cascadia%20Mono&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=17" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=2%2B%20years%20of%20coding%20experience&font=Cascadia%20Mono&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=17" />
+  <div align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Ready%20for%20new%20challenges&font=Cascadia%20Mono&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=17" /></div>
 </p>
 
 ## Tools that I'm familier with
