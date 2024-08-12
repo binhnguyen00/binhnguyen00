@@ -3,10 +3,10 @@
 
 <p align="center">
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer&font=Cascadia%20Mono&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=17" />
-    <img src="https://readme-typing-svg.demolab.com/?lines=2%2B%20years%20of%20coding%20experience&font=Cascadia%20Mono&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=17" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer&font=Cascadia%20Mono&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=15" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=2%2B%20years%20of%20coding%20experience&font=Cascadia%20Mono&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=15" />
   </div>
-  <div align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Ready%20for%20new%20challenges&font=Cascadia%20Mono&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=17" /></div>
+  <div align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Ready%20for%20new%20challenges&font=Cascadia%20Mono&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=15" /></div>
 </p>
 
 ## Tools that I'm familier with
