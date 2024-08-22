@@ -34,10 +34,6 @@
   <img alt="iTerm2" src="https://img.shields.io/badge/-iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white" />
 </p>
 
-## My Stats 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=binhnguyen00&show_icons=true)
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=binhnguyen00&layout=compact)
-
 ## Contact Me
 📧 Email: _jackjack2000.kahp@gmail.com_
 <br/>
