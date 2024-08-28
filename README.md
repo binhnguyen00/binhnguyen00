@@ -13,6 +13,7 @@
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-2843BE?style=flat-square&logo=Java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-674CEE?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Pip" src="https://img.shields.io/badge/-pip-674CEE?style=flat-square&logo=pip&logoColor=white" />
   <img alt="SpringBoot" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-12432C?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Gradle" src="https://img.shields.io/badge/-Gradle-5849BE?style=flat-square&logo=gradle&logoColor=white" />
