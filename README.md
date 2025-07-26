@@ -1,6 +1,5 @@
 <h1 align="center"> Hi there <img src="https://emojis.slackmojis.com/emojis/images/1710140468/90621/clapclap-e.gif?1710140468" width="30"/> thank you for reaching me out </h1>
 <h2 align="center"> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <img src="https://emojis.slackmojis.com/emojis/images/1644691746/52695/handshake.png?1644691746" width="30"/> Looking to collaborate 
 </h2>
 
@@ -10,6 +9,8 @@
   </div>
   <div align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Ready%20for%20new%20challenges&font=Cascadia%20Mono&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=1000&size=18" /></div>
 </p>
+
+## Engaged in the full lifecycle of a web application project
 
 ## Tools that I'm familier with
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logoColor=white)
