@@ -1,11 +1,14 @@
 <h1 align="center"> Hi there <img src="https://emojis.slackmojis.com/emojis/images/1710140468/90621/clapclap-e.gif?1710140468" width="30"/> thank you for reaching me out </h1>
-<h2 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1644691746/52695/handshake.png?1644691746" width="30"/> Looking to collaborate </h2>
+<h2 align="center"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://emojis.slackmojis.com/emojis/images/1644691746/52695/handshake.png?1644691746" width="30"/> Looking to collaborate 
+</h2>
 
 <p align="center">
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=3%2B%20years%20Full-stack%20web%20developer&font=Cascadia%20Mono&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=15" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=3%2B%20years%20Full-stack%20web%20developer&font=Cascadia%20Mono&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=2000&size=18" />
   </div>
-  <div align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Ready%20for%20new%20challenges&font=Cascadia%20Mono&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=5000&size=15" /></div>
+  <div align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Ready%20for%20new%20challenges&font=Cascadia%20Mono&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=1000&size=18" /></div>
 </p>
 
 ## Tools that I'm familier with
@@ -45,9 +48,12 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)
 
 ## Contact Me
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jackjack2000.kahp@gmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:binh.nguyennang@mobifone.vn)
+[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](tel:0942659016)
+<br/>
 📧 Email: _jackjack2000.kahp@gmail.com_
 <br/>
 📧 Outlook: _binh.nguyennang@mobifone.vn_
 <br/>
 📲 Zalo / Direct: ```0942659016```
-
