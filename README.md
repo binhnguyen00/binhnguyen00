@@ -46,4 +46,7 @@
 ## Contact Me
 📧 Email: _jackjack2000.kahp@gmail.com_
 <br/>
-📲 To Vietnamese friends: ```0942659016``` Zalo / Direct
+📧 Outlook: _binh.nguyennang@mobifone.vn_
+<br/>
+📲 Zalo / Direct: ```0942659016```
+
