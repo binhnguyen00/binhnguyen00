@@ -14,9 +14,9 @@
 ![React](https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
-![Shellscript](https://img.shields.io/badge/-ShellScript-983CES?logo=shellscripts&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![Shellscript](https://img.shields.io/badge/-ShellScript-983CES?logo=shellscripts&logoColor=white)
 
 ![Gradle](https://img.shields.io/badge/-Gradle-5849BE?logo=gradle&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
