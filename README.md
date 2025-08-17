@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there <img src="https://emojis.slackmojis.com/emojis/images/1710140468/90621/clapclap-e.gif?1710140468" width="30"/> thank you for reaching me out </h1>
 <h2 align="center"> 
-  <img src="https://emojis.slackmojis.com/emojis/images/1644691746/52695/handshake.png?1644691746" width="30"/> Looking to collaborate 
+  <img src="https://emojis.slackmojis.com/emojis/images/1738682007/113275/gold_handshake.gif?1738682007" width="30"/> Looking to collaborate 
 </h2>
 
 <p align="center">
