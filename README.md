@@ -27,6 +27,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?logo=Odoo&logoColor=fff)
 ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?logo=FastAPI&logoColor=fff)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)
