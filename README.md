@@ -5,7 +5,7 @@
 
 <p align="center">
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=3%2B%20years%20Full-stack%20web%20developer&font=Cascadia%20Mono&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=2000&size=18" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=4%2B%20years%20Full-stack%20web%20developer&font=Cascadia%20Mono&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=2000&size=18" />
   </div>
   <div align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Ready%20for%20new%20challenges&font=Cascadia%20Mono&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=1000&size=18" /></div>
 </p>
